@@ -5,3 +5,4 @@ build:
     - "torch==2.0.1"
 
 predict: "predict.py:Predictor"
+# Build trigger
